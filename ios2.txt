@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is ios1
 
 my name is jack
+=======
+this is ios edit
+>>>>>>> 3272116947301886fa0832c9263c2735874bb8b5
+merged ok
