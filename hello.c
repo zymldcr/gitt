@@ -29,6 +29,7 @@ double getWeight() {
 }
 double getHeight() {
 	double height = 180;
+	int age = 100;
 	return height;
 }
 int getHouse() {
