@@ -13,6 +13,7 @@ int getAge() {
 	char* name = "jack";
 	int age = 15;
 	double height = 180;
+	double weight = 100;
 	return age;
 }
 
