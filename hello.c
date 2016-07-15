@@ -22,3 +22,8 @@ char* getName() {
 	int age = 15;
 	return name;
 }
+
+double getWeight() {
+	double weight = 100;
+	return weight;
+}
