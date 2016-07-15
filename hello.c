@@ -27,3 +27,7 @@ double getWeight() {
 	double weight = 100;
 	return weight;
 }
+double getHeight() {
+	double height = 180;
+	return height;
+}
