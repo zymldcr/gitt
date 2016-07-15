@@ -31,3 +31,6 @@ double getHeight() {
 	double height = 180;
 	return height;
 }
+int getHouse() {
+	return 1;
+}
