@@ -10,6 +10,7 @@ int main() {
 }
 
 int getAge() {
+	char* name = "jack";
 	int age = 15;
 	return age;
 }
