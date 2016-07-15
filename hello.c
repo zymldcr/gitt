@@ -17,5 +17,6 @@ int getAge() {
 
 char* getName() {
 	char* name = "rose";
+	int age = 15;
 	return name;
 }
