@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+
 int getAge();
 char* getNAme();
 //main
